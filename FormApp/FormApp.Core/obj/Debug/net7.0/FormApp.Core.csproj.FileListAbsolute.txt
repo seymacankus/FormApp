@@ -1,0 +1,12 @@
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Core\bin\Debug\net7.0\FormApp.Core.deps.json
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Core\bin\Debug\net7.0\FormApp.Core.dll
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Core\bin\Debug\net7.0\FormApp.Core.pdb
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Core\obj\Debug\net7.0\FormApp.Core.csproj.AssemblyReference.cache
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Core\obj\Debug\net7.0\FormApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Core\obj\Debug\net7.0\FormApp.Core.AssemblyInfoInputs.cache
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Core\obj\Debug\net7.0\FormApp.Core.AssemblyInfo.cs
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Core\obj\Debug\net7.0\FormApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Core\obj\Debug\net7.0\FormApp.Core.dll
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Core\obj\Debug\net7.0\refint\FormApp.Core.dll
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Core\obj\Debug\net7.0\FormApp.Core.pdb
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Core\obj\Debug\net7.0\ref\FormApp.Core.dll

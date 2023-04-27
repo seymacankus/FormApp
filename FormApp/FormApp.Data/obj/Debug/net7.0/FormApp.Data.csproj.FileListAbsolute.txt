@@ -1,0 +1,17 @@
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Data\obj\Debug\net7.0\FormApp.Data.csproj.AssemblyReference.cache
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Data\obj\Debug\net7.0\FormApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Data\obj\Debug\net7.0\FormApp.Data.AssemblyInfoInputs.cache
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Data\obj\Debug\net7.0\FormApp.Data.AssemblyInfo.cs
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Data\obj\Debug\net7.0\FormApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Data\bin\Debug\net7.0\FormApp.Data.deps.json
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Data\bin\Debug\net7.0\FormApp.Data.runtimeconfig.json
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Data\bin\Debug\net7.0\FormApp.Data.dll
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Data\bin\Debug\net7.0\FormApp.Data.pdb
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Data\bin\Debug\net7.0\FormApp.Entity.dll
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Data\bin\Debug\net7.0\FormApp.Entity.pdb
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Data\obj\Debug\net7.0\FormApp.Data.csproj.CopyComplete
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Data\obj\Debug\net7.0\FormApp.Data.dll
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Data\obj\Debug\net7.0\refint\FormApp.Data.dll
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Data\obj\Debug\net7.0\FormApp.Data.pdb
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Data\obj\Debug\net7.0\FormApp.Data.genruntimeconfig.cache
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Data\obj\Debug\net7.0\ref\FormApp.Data.dll

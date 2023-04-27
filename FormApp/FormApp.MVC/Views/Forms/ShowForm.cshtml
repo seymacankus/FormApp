@@ -1,0 +1,32 @@
+﻿@model TestFormModel
+
+<form asp-area=""
+      asp-controller="Forms"
+      asp-action="SaveForm"
+      method="post">
+    <a class="btn btn-outline-primary mt-5" asp-area="" asp-controller="Forms" asp-action="Index">Geri Dön</a>
+
+    <div class="row">
+        <div class="text-center">
+            <h2>@Model.Name</h2>
+            <h6>@Model.Description</h6>
+        </div>
+        <hr />
+        <div class="col-9 container w-75">
+            <div class="row justify-content-center mt-4">
+                @foreach (var item in Model.FieldModels)
+                {
+                    <div class="col-4">
+                        <label class="form-label">@item.Name<span class=" @(item.Required ? "text-danger" : "")"> @(item.Required ? "*" : "")</span></label>
+                        <input class="form-control" type="@item.DataType" @(item.Required ? "required" : "")>
+                    </div>
+                }
+               
+            </div>
+            <div class="text-center">
+                <button type="button" class="btn btn-primary mt-5">Kaydet</button>
+            </div>
+        </div>
+    </div>
+
+</form>

@@ -1,0 +1,29 @@
+﻿@model LoginViewModel
+<div class="container w-25">
+    <h1 class="display-6 text-center mt-5">Giriş Yap</h1>
+    <hr />
+
+    <form asp-area="" asp-controller="Account" asp-action="Login" method="post">
+        <input type="hidden" asp-for="ReturnUrl" />
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="row">
+            <div class="col-12 mb-3">
+                <label class="form-label" asp-for="UserName"></label>
+                <input class="form-control" asp-for="UserName">
+                <span class="text-danger" asp-validation-for="UserName"></span>
+            </div>
+            <div class="col-12 mb-3">
+                <label class="form-label" asp-for="Password"></label>
+                <input class="form-control" asp-for="Password">
+                <span class="text-danger" asp-validation-for="Password"></span>
+            </div>
+        </div>
+
+
+
+        <div class="text-center"><button type="submit" class="btn btn-primary">Giriş Yap</button></div>
+        <div class="text-center">
+            <a asp-area="" asp-controller="Account" asp-action="Register" class="btn btn-link">Kaydol</a>
+        </div>
+    </form>
+</div>

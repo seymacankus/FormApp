@@ -1,0 +1,17 @@
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Business\bin\Debug\net7.0\FormApp.Business.deps.json
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Business\bin\Debug\net7.0\FormApp.Business.dll
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Business\bin\Debug\net7.0\FormApp.Business.pdb
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Business\bin\Debug\net7.0\FormApp.Data.dll
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Business\bin\Debug\net7.0\FormApp.Entity.dll
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Business\bin\Debug\net7.0\FormApp.Data.pdb
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Business\bin\Debug\net7.0\FormApp.Entity.pdb
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Business\obj\Debug\net7.0\FormApp.Business.csproj.AssemblyReference.cache
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Business\obj\Debug\net7.0\FormApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Business\obj\Debug\net7.0\FormApp.Business.AssemblyInfoInputs.cache
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Business\obj\Debug\net7.0\FormApp.Business.AssemblyInfo.cs
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Business\obj\Debug\net7.0\FormApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Business\obj\Debug\net7.0\FormApp.Business.csproj.CopyComplete
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Business\obj\Debug\net7.0\FormApp.Business.dll
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Business\obj\Debug\net7.0\refint\FormApp.Business.dll
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Business\obj\Debug\net7.0\FormApp.Business.pdb
+C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Business\obj\Debug\net7.0\ref\FormApp.Business.dll

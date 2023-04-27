@@ -1,0 +1,81 @@
+﻿@{
+    var formFieldListStr = HttpContextAccessor.HttpContext.Session.GetString("TestFormFieldList");
+    var formFieldList = string.IsNullOrEmpty(formFieldListStr) ? new List<TestFormFieldModel>() : JsonSerializer.Deserialize<List<TestFormFieldModel>>(formFieldListStr);
+}
+
+<div class="container-fluid mt-3">
+    <div class="d-flex justify-content-between align-items-center">
+        <h3 class="fw-light">Form Alanı Listesi</h3>
+        <div class="d-flex flex-row align-items-end gap-5">
+            <div>
+                <button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#formFieldModal">Form Alanı Ekle</button>
+            </div>
+        </div>
+    </div>
+    <hr />
+    <table id="formFieldTable" class="table table-bordered table-sm">
+        <thead class="text-bg-success">
+            <tr>
+                <th>Ad</th>
+                <th>Veri Tipi</th>
+                <th>Zorunluluk</th>
+                <th width="240">İşlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var formField in formFieldList)
+            {
+                <tr>
+                    <td class="align-middle">@formField.Name</td>
+                    <td class="align-middle">@formField.DataType</td>
+                    <td class="align-middle">@formField.Required</td>
+
+                    <td class="align-middle">
+                        <a class="btn btn-outline-danger btn-sm"
+                           href="#" onclick="deleteFormField('@formField.Id')">Sil</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<div class="modal fade" id="formFieldModal" tabindex="-1" role="dialog" aria-labelledby="formFieldModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="formFieldModalLabel">Yeni Form Alanı Ekle</h5>
+                <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="newFormField">
+                    <div class="form-group">
+                        <label for="fieldName" class="col-form-label">Alan Adı:</label>
+                        <input type="text" class="form-control" id="fieldName">
+                    </div>
+                    <div class="form-group">
+                        <label for="description" class="col-form-label">Veri Tipi:</label>
+                        @*<input type="text" class="form-control" id="dataType">*@
+                        <select class="form-select" aria-label="Veri Tipi" id="dataType" name="dataType">
+                            <option value="STRING">STRING</option>
+                            <option value="NUMBER">NUMBER</option>
+                        </select>
+                    </div>
+                   
+                    <div class="form-check mt-2">
+                        <input class="form-check-input" type="checkbox" value="" id="required">
+                        <label class="form-check-label" for="required">
+                            Zorunlu Mu?
+                        </label>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" onclick="addFormField()">Alanı Kaydet</button>
+            </div>
+        </div>
+    </div>
+</div>
+
