@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KRv7kSpPUL8MPlHCNay2+hezBmuQKmVQYwtI33zPh0gc2dK6Sd3QT4o7vP0swTwd4nawi6S5wu/wOni8qKu38g==",
+  "dgSpecHash": "1NnQpnmwH2aajz954AjxpyPbiqod1ma6/+mfV+MdT8QdN0cnmMBo2PcCpAXnutHRhCim/Wv96pSYt5xJKOMVoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Şeyma Cankuş\\Desktop\\Wissen ERP7\\BirTakimDenemeler\\FormApp\\FormApp.MVC\\FormApp.MVC.csproj",
+  "projectFilePath": "C:\\GitHub\\FormApp\\FormApp\\FormApp.MVC\\FormApp.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Şeyma Cankuş\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Şeyma Cankuş\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

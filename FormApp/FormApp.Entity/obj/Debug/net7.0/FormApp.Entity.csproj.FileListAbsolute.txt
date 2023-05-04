@@ -10,3 +10,15 @@ C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.En
 C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Entity\obj\Debug\net7.0\refint\FormApp.Entity.dll
 C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Entity\obj\Debug\net7.0\FormApp.Entity.pdb
 C:\Users\Şeyma Cankuş\Desktop\Wissen ERP7\BirTakimDenemeler\FormApp\FormApp.Entity\obj\Debug\net7.0\ref\FormApp.Entity.dll
+C:\GitHub\FormApp\FormApp\FormApp.Entity\bin\Debug\net7.0\FormApp.Entity.deps.json
+C:\GitHub\FormApp\FormApp\FormApp.Entity\bin\Debug\net7.0\FormApp.Entity.dll
+C:\GitHub\FormApp\FormApp\FormApp.Entity\bin\Debug\net7.0\FormApp.Entity.pdb
+C:\GitHub\FormApp\FormApp\FormApp.Entity\obj\Debug\net7.0\FormApp.Entity.csproj.AssemblyReference.cache
+C:\GitHub\FormApp\FormApp\FormApp.Entity\obj\Debug\net7.0\FormApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\FormApp\FormApp\FormApp.Entity\obj\Debug\net7.0\FormApp.Entity.AssemblyInfoInputs.cache
+C:\GitHub\FormApp\FormApp\FormApp.Entity\obj\Debug\net7.0\FormApp.Entity.AssemblyInfo.cs
+C:\GitHub\FormApp\FormApp\FormApp.Entity\obj\Debug\net7.0\FormApp.Entity.csproj.CoreCompileInputs.cache
+C:\GitHub\FormApp\FormApp\FormApp.Entity\obj\Debug\net7.0\FormApp.Entity.dll
+C:\GitHub\FormApp\FormApp\FormApp.Entity\obj\Debug\net7.0\refint\FormApp.Entity.dll
+C:\GitHub\FormApp\FormApp\FormApp.Entity\obj\Debug\net7.0\FormApp.Entity.pdb
+C:\GitHub\FormApp\FormApp\FormApp.Entity\obj\Debug\net7.0\ref\FormApp.Entity.dll

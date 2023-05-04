@@ -105,6 +105,8 @@ namespace FormApp.MVC.Controllers
 
             return Json(true);
         }
+
+        [Route("Form/{id}")]
         public async Task<IActionResult> ShowForm(int id)
         {
             var form = await _testFormService.GetFormsWithFieldsById(id);

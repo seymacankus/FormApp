@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Şeyma Cankuş\\Desktop\\Wissen ERP7\\BirTakimDenemeler\\FormApp\\FormApp.Data\\FormApp.Data.csproj": {}
+    "C:\\GitHub\\FormApp\\FormApp\\FormApp.Data\\FormApp.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Şeyma Cankuş\\Desktop\\Wissen ERP7\\BirTakimDenemeler\\FormApp\\FormApp.Data\\FormApp.Data.csproj": {
+    "C:\\GitHub\\FormApp\\FormApp\\FormApp.Data\\FormApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Şeyma Cankuş\\Desktop\\Wissen ERP7\\BirTakimDenemeler\\FormApp\\FormApp.Data\\FormApp.Data.csproj",
+        "projectUniqueName": "C:\\GitHub\\FormApp\\FormApp\\FormApp.Data\\FormApp.Data.csproj",
         "projectName": "FormApp.Data",
-        "projectPath": "C:\\Users\\Şeyma Cankuş\\Desktop\\Wissen ERP7\\BirTakimDenemeler\\FormApp\\FormApp.Data\\FormApp.Data.csproj",
+        "projectPath": "C:\\GitHub\\FormApp\\FormApp\\FormApp.Data\\FormApp.Data.csproj",
         "packagesPath": "C:\\Users\\Şeyma Cankuş\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Şeyma Cankuş\\Desktop\\Wissen ERP7\\BirTakimDenemeler\\FormApp\\FormApp.Data\\obj\\",
+        "outputPath": "C:\\GitHub\\FormApp\\FormApp\\FormApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Şeyma Cankuş\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Şeyma Cankuş\\Desktop\\Wissen ERP7\\BirTakimDenemeler\\FormApp\\FormApp.Entity\\FormApp.Entity.csproj": {
-                "projectPath": "C:\\Users\\Şeyma Cankuş\\Desktop\\Wissen ERP7\\BirTakimDenemeler\\FormApp\\FormApp.Entity\\FormApp.Entity.csproj"
+              "C:\\GitHub\\FormApp\\FormApp\\FormApp.Entity\\FormApp.Entity.csproj": {
+                "projectPath": "C:\\GitHub\\FormApp\\FormApp\\FormApp.Entity\\FormApp.Entity.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\Şeyma Cankuş\\Desktop\\Wissen ERP7\\BirTakimDenemeler\\FormApp\\FormApp.Entity\\FormApp.Entity.csproj": {
+    "C:\\GitHub\\FormApp\\FormApp\\FormApp.Entity\\FormApp.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Şeyma Cankuş\\Desktop\\Wissen ERP7\\BirTakimDenemeler\\FormApp\\FormApp.Entity\\FormApp.Entity.csproj",
+        "projectUniqueName": "C:\\GitHub\\FormApp\\FormApp\\FormApp.Entity\\FormApp.Entity.csproj",
         "projectName": "FormApp.Entity",
-        "projectPath": "C:\\Users\\Şeyma Cankuş\\Desktop\\Wissen ERP7\\BirTakimDenemeler\\FormApp\\FormApp.Entity\\FormApp.Entity.csproj",
+        "projectPath": "C:\\GitHub\\FormApp\\FormApp\\FormApp.Entity\\FormApp.Entity.csproj",
         "packagesPath": "C:\\Users\\Şeyma Cankuş\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Şeyma Cankuş\\Desktop\\Wissen ERP7\\BirTakimDenemeler\\FormApp\\FormApp.Entity\\obj\\",
+        "outputPath": "C:\\GitHub\\FormApp\\FormApp\\FormApp.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Şeyma Cankuş\\AppData\\Roaming\\NuGet\\NuGet.Config",

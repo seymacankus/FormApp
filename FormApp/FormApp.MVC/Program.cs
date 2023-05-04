@@ -68,11 +68,6 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-app.MapControllerRoute(
-    name: "forms",
-    pattern: "forms/{id}",
-    defaults: new { controller = "Forms", action = "ShowForm" }
-    );
 
 app.MapControllerRoute(
     name: "default",
